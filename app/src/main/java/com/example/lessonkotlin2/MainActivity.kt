@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                 "https://ru.depositphotos.com/29460297/stock-photo-bird-cage.html, " +
                 "https://millionstatusov.ru/statusy/cont/97539.html," +
                 " https://www.pinterest.com/pin/744501382154060745/, " +
-                "https://www.pinterest.com/pin/24980911056820135/," +
+                "https://www.pinterest.com/pin/249809110568209135/," +
                 "https://www.pinterest.com/pin/557320522613152974/")
     }
 }

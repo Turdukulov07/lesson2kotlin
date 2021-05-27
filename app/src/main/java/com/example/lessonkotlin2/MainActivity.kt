@@ -34,6 +34,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initialUlrs() {
-        list.add("https://i.pinimg.com/originals/94/1a/16/941a1638848c06d3d83139f2ba267c9d.jpg")
+        list.add("https://i.pinimg.com/originals/94/1a/16/941a1638848c06d3d83139f2ba267c9d.jpg, " +
+                "https://ru.depositphotos.com/29460297/stock-photo-bird-cage.html, " +
+                "https://millionstatusov.ru/statusy/cont/97539.html," +
+                " https://www.pinterest.com/pin/744501382154060745/, " +
+                "https://www.pinterest.com/pin/249809110568209135/," +
+                "https://www.pinterest.com/pin/557320522613152974/")
     }
 }
